@@ -43,7 +43,8 @@ ARISA-GEN_AI-TRAVEL_CHATBOT_PROJECT/
 ├── main.py
 ├── search.py
 └── validation.py
-   
+
+```
 ---
 
 ## 🤝 Contributors
