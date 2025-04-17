@@ -1,0 +1,952 @@
+[
+    {
+      "question": "What identification is needed for domestic flights within a country?",
+      "answer": "While requirements vary, a government-issued photo ID (like a national ID card or driver's license) is usually sufficient for domestic flights *within* most countries (e.g., within the Schengen Area or the US). However, carrying your passport is always the most reliable option and may be required by specific airlines or countries. Always double-check airline requirements before travel.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What's the recommended airport arrival time for international travel?",
+      "answer": "We strongly advise arriving at the airport *at least 3 hours* before your scheduled international flight departure. During peak seasons or at major international hubs, allowing 3.5-4 hours can reduce stress and account for longer queues at check-in, baggage drop, and security.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "How do I know if I need a visa for my destination?",
+      "answer": "Visa requirements depend heavily on your nationality and the destination country's regulations. While we provide basic guidance during booking, *it is ultimately the traveller's responsibility* to verify exact requirements and obtain necessary visas through the destination country's official embassy or consulate website well in advance of departure.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "How long does my passport need to be valid for international travel?",
+      "answer": "Most countries require your passport to be valid for *at least 6 months beyond your intended departure date* from that country. Some may have shorter requirements, but the 6-month rule is the safest standard to follow. Always check the specific entry requirements for your destination.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is the standard baggage allowance for checked luggage?",
+      "answer": "Checked baggage allowances vary significantly by airline, route, and ticket class (Economy, Business, etc.). Common allowances range from 15kg to 32kg per piece, often with limits on the number of pieces. Always check your specific airline's policy or your e-ticket details.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What are the typical size and weight limits for carry-on luggage?",
+      "answer": "Carry-on limits also vary greatly. Typical size restrictions are around 55x40x23 cm (22x16x9 inches), and weight limits often range from 7kg to 12kg. Many airlines also allow one smaller personal item (like a laptop bag or handbag). Check your airline's specific rules.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What are the rules for carrying liquids in carry-on baggage?",
+      "answer": "Generally, liquids, aerosols, and gels must be in containers of 100ml (3.4oz) or less. All such containers must fit comfortably inside a single, transparent, resealable plastic bag (approx. 1 litre capacity). Exceptions usually apply for baby food/milk and essential medicines (proof may be required).",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "Can I check-in online for my flight?",
+      "answer": "Most airlines offer online check-in, typically opening 24-48 hours before departure. This allows you to confirm your seat and get your boarding pass digitally or print it. If checking bags, you'll still need to visit the bag drop counter at the airport.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What happens if my flight is delayed or cancelled?",
+      "answer": "Airline policies vary based on the length of delay and reason (e.g., weather, technical). Depending on the situation and regulations (like EU261), you may be entitled to assistance (meals, accommodation), rebooking on the next available flight, or a refund. Contact the airline directly at the airport for assistance.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is a connecting flight / layover?",
+      "answer": "A connecting flight means you'll change planes at an intermediate airport (the layover point) before reaching your final destination. Ensure you have enough layover time (minimum 1.5-2 hours usually recommended, more for international connections) to transfer between gates and potentially clear security/immigration again.",
+      "category": "Documentation & Flights"
+    },
+     {
+      "question": "Do I need to collect my checked luggage during a layover?",
+      "answer": "Usually, for connections on the same airline or partner airlines booked on a single ticket, your luggage will be checked through to your final destination. However, if entering a new country (like the US), you often need to collect bags, clear customs, and re-check them. Always confirm with the airline at check-in.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is a Schengen Visa and who needs one?",
+      "answer": "A Schengen Visa allows travel within the Schengen Area (comprising 27 European countries) for tourism or business for up to 90 days within a 180-day period. Whether you need one depends on your nationality. Citizens of many countries (e.g., US, Canada, Australia) can enter visa-free for short stays.",
+      "category": "Documentation & Flights"
+    },
+     {
+      "question": "What should I do if I lose my passport while traveling?",
+      "answer": "Report the loss immediately to the local police to get a police report. Then, contact your country's embassy or consulate in the destination country. They can assist you in obtaining emergency travel documents to return home.",
+      "category": "Documentation & Flights"
+    },
+     {
+      "question": "Are photocopies or digital scans of my passport acceptable as ID?",
+      "answer": "While useful as backups if your passport is lost/stolen, photocopies or scans are generally *not* accepted as official identification for flights, border crossings, or hotel check-ins. Always carry the original document.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "How can I book a trip with your agency?",
+      "answer": "You can explore our curated packages directly on our website and book online. Alternatively, feel free to contact our expert travel consultants via phone or email for personalized itinerary planning and booking assistance. We're here to help craft your perfect journey!",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What information do I need to provide when booking?",
+      "answer": "We typically require full legal names (exactly as they appear on passports), dates of birth, contact information (phone, email), passport details (number, expiry date, nationality) for international trips, and any special requests (dietary needs, room preferences).",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We typically accept major credit cards (Visa, MasterCard, American Express), bank transfers, and sometimes secure online payment platforms. Specific options may vary, please check during the booking process or contact us for details.",
+      "category": "Booking Process"
+    },
+     {
+      "question": "Is a deposit required to secure my booking?",
+      "answer": "Yes, usually a non-refundable deposit is required at the time of booking to confirm your reservation. The amount varies depending on the trip cost and components.",
+      "category": "Booking Process"
+    },
+     {
+      "question": "When is the final payment for my trip due?",
+      "answer": "The final payment deadline is typically 60-90 days before departure, but this can vary. Your booking confirmation and invoice will clearly state the final payment due date.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "Our cancellation policy varies depending on the specific trip components (flights, hotels, tours) and how far in advance the cancellation is made. Detailed terms and conditions are provided during the booking process and outlined in your booking confirmation. Cancellation fees typically increase closer to the departure date. We highly recommend purchasing travel insurance.",
+      "category": "Booking Process"
+    },
+     {
+      "question": "Can I make changes to my booking after it's confirmed?",
+      "answer": "Changes may be possible, but they are often subject to availability and may incur amendment fees from both our agency and suppliers (airlines, hotels). Name changes are often treated as cancellations and rebookings, potentially incurring significant costs. Please contact us as soon as possible if you need to make changes.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What is included in the price of the tour package?",
+      "answer": "Inclusions vary per package. Typically, prices cover accommodation, specified transportation (flights, coaches, trains), listed tours and activities, some meals (as indicated, e.g., 'Breakfast Daily'), and often the services of a tour leader or local guides. Exclusions usually include visas, travel insurance, optional activities, tips, and personal expenses. Always check the detailed 'Inclusions' section of the offer.",
+      "category": "Booking Process"
+    },
+     {
+      "question": "Do your prices include airport taxes and fuel surcharges?",
+      "answer": "For packages including international flights booked through us, prices generally include known airport taxes and fuel surcharges at the time of booking. However, these can sometimes fluctuate slightly before ticketing. We aim for transparency and will clarify this in your quote.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "Do you offer discounts for groups or returning customers?",
+      "answer": "We may offer discounts for larger group bookings (typically 8-10+ people traveling together on the same itinerary). We also value our loyal customers and occasionally run promotions or offer benefits for repeat bookings. Please inquire when booking.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What are 'Terms and Conditions' and why should I read them?",
+      "answer": "The Terms and Conditions (T&Cs) form the legal contract between you and our agency. They outline important details regarding payments, cancellations, changes, liability, insurance recommendations, documentation requirements, and dispute resolution. It's crucial to read and understand them before confirming your booking.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "Is travel insurance included in the packages?",
+      "answer": "Travel insurance is typically *not* automatically included in our standard package prices unless explicitly stated. We *strongly recommend* purchasing comprehensive travel insurance covering medical emergencies, cancellations, trip interruption, and lost luggage/belongings.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "What type of travel insurance should I get?",
+      "answer": "A comprehensive policy is best. Key coverages include: Emergency Medical Expenses (including evacuation/repatriation), Trip Cancellation/Interruption (covering non-refundable costs if you have to cancel or cut short your trip for covered reasons), Baggage/Personal Effects Loss or Delay, and Travel Delay.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "Does travel insurance cover pre-existing medical conditions?",
+      "answer": "Coverage for pre-existing conditions varies significantly between policies. Some may offer cover if the condition is stable, others require declaring it (potentially at extra cost), and some exclude it entirely. Read the policy wording carefully or ask us for policies that offer this cover.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "When should I purchase travel insurance?",
+      "answer": "We recommend purchasing travel insurance as soon as you book your trip (i.e., pay your deposit). This ensures you are covered for cancellation benefits if something unexpected happens *before* your departure.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "How do I make a claim on my travel insurance?",
+      "answer": "In an emergency, contact the insurance provider's 24/7 assistance line immediately. For non-emergency claims (e.g., lost baggage, cancellation), you'll typically need to complete a claim form and provide supporting documents (receipts, police reports, medical certificates) after your trip. Keep all relevant paperwork.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "Are vaccinations required for my trip?",
+      "answer": "Vaccination requirements depend on the destination, your country of origin, and your personal health history. Consult your doctor or a travel clinic well in advance (at least 4-6 weeks before departure) for personalized advice on recommended or required vaccinations (e.g., Yellow Fever) and health precautions.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "Should I pack a first-aid kit?",
+      "answer": "Yes, packing a basic first-aid kit is highly recommended. Include items like pain relievers, antiseptic wipes, bandages, blister treatment, motion sickness medication, any personal prescriptions, and medication for stomach upsets.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "How can I deal with jet lag?",
+      "answer": "Stay hydrated, gradually adjust your sleep schedule before departure if possible, try to adapt to the local time immediately upon arrival (eat meals and sleep according to the new time zone), get sunlight exposure during the day, and avoid long naps.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "What precautions should I take regarding food and water safety?",
+      "answer": "In many destinations, it's advisable to drink bottled or purified water, avoid ice in drinks unless you know it's made from safe water, eat well-cooked food served hot, be cautious with street food (choose busy stalls), and peel fruits yourself. When in doubt, avoid it.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "What should I do if I get sick or injured abroad?",
+      "answer": "Contact your travel insurance provider's 24/7 emergency assistance line immediately. They can advise on local medical facilities and procedures. Your tour leader or our local representative can also assist in finding medical help.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "Are there specific safety concerns for solo travellers, especially women?",
+      "answer": "General safety precautions apply everywhere: be aware of your surroundings, avoid walking alone late at night in unfamiliar areas, secure your valuables, share your itinerary with someone back home. Research local customs regarding dress and behaviour. We choose reputable accommodations and partners with safety in mind.",
+      "category": "Health & Safety"
+    },
+     {
+      "question": "What is altitude sickness and how can I prevent it?",
+      "answer": "Altitude sickness can occur when traveling to high elevations (typically above 2,500m / 8,000ft) too quickly. Symptoms include headache, nausea, and fatigue. Prevention involves gradual acclimatization (ascending slowly, rest days), staying hydrated (avoid alcohol), and potentially preventative medication prescribed by your doctor.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "What should I pack for my trip?",
+      "answer": "Packing depends greatly on your destination's climate, the duration of your trip, and planned activities. General recommendations include comfortable walking shoes, layered clothing, necessary medications (with prescription if needed), travel adapters, sunscreen, insect repellent (if applicable), and copies of important documents.",
+      "category": "Preparation & Packing"
+    },
+    {
+      "question": "Do I need a travel adapter or voltage converter?",
+      "answer": "Maybe. Electrical outlets and voltage vary worldwide. Research the plug type and voltage of your destination(s). You'll likely need a plug adapter to fit the outlet. If your devices aren't dual-voltage (most modern electronics like phones/laptops are), you might also need a voltage converter, though this is less common now.",
+      "category": "Preparation & Packing"
+    },
+    {
+      "question": "How should I pack medications?",
+      "answer": "Pack medications in your *carry-on* luggage in their original packaging. Bring enough for your entire trip plus extra in case of delays. Carry a copy of your prescription, especially for controlled substances or injectable medicines. A doctor's note explaining the need for the medication can also be helpful.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "What are some tips for packing light?",
+      "answer": "Choose versatile clothing items that can be mixed and matched, opt for layers instead of bulky items, wear your heaviest shoes/clothes on the plane, use packing cubes to compress items, decant toiletries into smaller travel-sized containers, and consider doing laundry during longer trips.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "Should I leave space in my luggage for souvenirs?",
+      "answer": "Yes, if you plan on shopping, it's wise to leave some extra space or pack a foldable duffel bag for bringing back souvenirs and purchases.",
+      "category": "Preparation & Packing"
+    },
+    {
+      "question": "What's the best way to handle money abroad?",
+      "answer": "A combination usually works best: carry some local currency in cash for small purchases, use a credit card (inform your bank about your travel plans!) for larger expenses like hotels and restaurants, and consider a debit card for ATM withdrawals (check fees beforehand). Research local tipping customs.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "Should I exchange currency before I leave or at my destination?",
+      "answer": "It's often best to get a small amount of local currency before you leave for immediate expenses (taxi, snacks). You usually get better exchange rates by withdrawing cash from local ATMs upon arrival or exchanging at reputable banks/exchange bureaus in the destination, rather than at airport counters or your home bank.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "How do I inform my bank about my travel plans?",
+      "answer": "Most banks allow you to set up a travel notification online through their website or mobile app. You can also call their customer service line. This helps prevent your cards from being blocked due to suspicion of fraudulent activity when used abroad.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "Are credit cards widely accepted everywhere?",
+      "answer": "Acceptance varies. Credit cards (Visa/MasterCard) are widely accepted in major cities, hotels, larger restaurants, and shops in many countries. However, in smaller towns, rural areas, markets, or for smaller purchases, cash is often preferred or required. Always carry some cash.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "What are foreign transaction fees?",
+      "answer": "Many credit and debit cards charge a fee (typically 1-3% of the transaction amount) when used for purchases or ATM withdrawals in a foreign currency. Look for cards that offer zero foreign transaction fees to save money.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "Is tipping customary at my destination?",
+      "answer": "Tipping customs vary greatly around the world. In some countries (like the US), tipping is expected for many services. In others (like Japan), it's uncommon or even considered rude. Research the local tipping etiquette for your destination beforehand.",
+      "category": "Preparation & Packing"
+    },
+     {
+      "question": "How can I keep my money and valuables safe while traveling?",
+      "answer": "Use hotel safes for passports, extra cash, and valuables. Carry only the cash you need for the day. Consider using a money belt or neck pouch worn under clothing for cards and larger amounts of cash. Be aware of your surroundings, especially in crowded areas, to avoid pickpockets.",
+      "category": "Preparation & Packing"
+    },
+    {
+      "question": "What kind of support do you offer during the trip?",
+      "answer": "Your final travel documents will include contact details for our local partners or tour leader at your destination for on-the-ground assistance with logistical matters or minor issues. Additionally, we provide a 24/7 emergency contact number for urgent situations that may arise during your travels.",
+      "category": "During Your Trip"
+    },
+     {
+      "question": "How can I stay connected (phone/internet) while traveling?",
+      "answer": "Options include: using international roaming plans from your home provider (can be expensive), buying a local SIM card upon arrival (often cost-effective for data/calls), using portable Wi-Fi hotspots (MiFi), or relying on Wi-Fi available at hotels, cafes, etc. eSIMs are also increasingly popular for compatible phones.",
+      "category": "During Your Trip"
+    },
+     {
+      "question": "What should I do if I encounter a problem with my hotel or tour?",
+      "answer": "First, try to resolve the issue directly with the hotel reception or your tour leader/guide. If the problem persists or is serious, contact our local representative using the details provided in your documents. For urgent matters, use our 24/7 emergency line.",
+      "category": "During Your Trip"
+    },
+     {
+      "question": "How much free time will I have on a guided tour?",
+      "answer": "The amount of free time varies depending on the itinerary. Some tours are fast-paced with many included activities, while others offer more leisure time for independent exploration. Check the detailed day-by-day itinerary, which usually indicates scheduled activities versus free time.",
+      "category": "During Your Trip"
+    },
+     {
+      "question": "Can the itinerary change during the trip?",
+      "answer": "While we strive to adhere to the planned itinerary, sometimes minor changes may be necessary due to unforeseen circumstances like weather, road closures, or local events. Your tour leader or local guide will manage these changes and keep you informed, aiming to provide the best possible alternative.",
+      "category": "During Your Trip"
+    },
+    {
+      "question": "Are optional excursions bookable in advance or locally?",
+      "answer": "Many optional excursions can be pre-booked with us to guarantee availability, especially popular ones or those requiring minimum numbers. Some may also be available to book locally through our representatives or your tour leader, subject to availability and payment locally (often in cash).",
+      "category": "Activities & Tours"
+    },
+    {
+      "question": "What does 'Activity Level' mean in the offer descriptions?",
+      "answer": "The 'Activity Level' (e.g., Leisurely, Moderate, Active, Strenuous) provides a general guideline on the physical demands of the trip. It considers factors like walking distances, terrain (stairs, hills, uneven ground), altitude, pace, and specific activities (hiking, cycling). Please read the detailed itinerary or contact us if you have concerns about suitability.",
+      "category": "Activities & Tours"
+    },
+     {
+      "question": "Are entrance fees to sights and attractions included?",
+      "answer": "Entrance fees for sights *specifically listed* as included in the itinerary's 'Core Experiences' or 'Inclusions' section are typically covered. Fees for optional excursions or sights visited during free time are usually not included.",
+      "category": "Activities & Tours"
+    },
+     {
+      "question": "What is the typical group size for your tours?",
+      "answer": "Group sizes vary. Many of our tours emphasize a 'Small Group' experience, often capped at 12-18 participants for a more intimate and manageable journey. Some tours may have slightly larger groups (e.g., up to 25-30). The specific maximum group size is usually indicated in the offer details.",
+      "category": "Activities & Tours"
+    },
+     {
+      "question": "Who are the tour leaders/guides?",
+      "answer": "Our tours are led by experienced and knowledgeable local guides or professional tour leaders (sometimes accompanying from the start, sometimes meeting locally). They are passionate about the destination and aim to provide insights, handle logistics, and ensure a smooth and enjoyable trip.",
+      "category": "Activities & Tours"
+    },
+     {
+      "question": "Is participation in all activities mandatory on a group tour?",
+      "answer": "While the itinerary is designed as a complete experience, participation in specific activities is generally not mandatory. If you prefer to skip a particular sightseeing visit or walk, you can usually do so, but please inform your tour leader. Note that no refunds are given for unused services.",
+      "category": "Activities & Tours"
+    },
+     {
+      "question": "What about tours involving animals (e.g., elephant riding, sanctuaries)?",
+      "answer": "We are committed to responsible tourism. We strive to avoid activities that exploit animals. If wildlife interactions are included, we aim to partner with operators who prioritize animal welfare, such as reputable sanctuaries focusing on observation and conservation rather than direct interaction like riding.",
+      "category": "Activities & Tours"
+    },
+    {
+      "question": "What type of accommodation can I expect?",
+      "answer": "Accommodation styles vary per trip, ranging from comfortable 3-star hotels to luxury 5-star resorts, boutique hotels, traditional guesthouses (like Riads or Ryokans), eco-lodges, or even unique stays like desert camps or cruise ships. The specific standard (e.g., '4-Star Hotels') is mentioned in each offer.",
+      "category": "Accommodation"
+    },
+    {
+      "question": "What do hotel star ratings mean?",
+      "answer": "Star ratings provide a general indication of facilities, services, and quality, but standards can vary significantly between countries. A 3-star hotel typically offers comfortable rooms with private bathrooms and basic amenities. 4-star hotels usually offer more services (restaurant, room service, fitness). 5-star hotels represent luxury standards.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What is the difference between a twin and a double room?",
+      "answer": "A *twin room* has two separate single beds. A *double room* has one larger bed (typically queen or king size) intended for two people. If traveling with a friend, request a twin room. If traveling as a couple, request a double.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "Can I request a specific room type (e.g., non-smoking, specific view)?",
+      "answer": "You can make requests at the time of booking (e.g., non-smoking, high floor, quiet room, specific view). We will pass these requests to the hotel, but they are *subject to availability* upon check-in and cannot be guaranteed.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What are typical hotel check-in and check-out times?",
+      "answer": "Standard check-in time is usually between 2:00 PM and 4:00 PM. Standard check-out time is typically between 10:00 AM and 12:00 PM (noon). Early check-in or late check-out may be possible upon request but is often subject to availability and may incur extra charges.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "Is breakfast usually included with the accommodation?",
+      "answer": "This depends on the hotel and the specific package. Many of our tours include daily breakfast ('Breakfast Daily'). If it's included, it will be specified in the itinerary or inclusions list. The type of breakfast varies (continental, buffet, cooked-to-order).",
+      "category": "Accommodation"
+    },
+     {
+      "question": "Is Wi-Fi typically available and free in hotels?",
+      "answer": "Wi-Fi is increasingly common in hotels worldwide, but availability, speed, and cost can vary. Many hotels offer free Wi-Fi in common areas or throughout the property, while some may charge a fee, especially for high-speed access. Remote lodges or cruise ships may have limited or costly connectivity.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What are resort fees or city taxes?",
+      "answer": "Some destinations or hotels charge mandatory resort fees (covering amenities like pool, gym, Wi-Fi) or local city/tourist taxes. These are often payable directly to the hotel upon check-in or check-out and may not be included in the pre-paid package price. We try to advise on these where applicable.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What is a 'single supplement'?",
+      "answer": "Tour prices are usually based on two people sharing a room (per person, double occupancy). If you are traveling alone and want your own room, you will typically need to pay an additional cost called the 'single supplement' to cover the full cost of the room.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "Do you offer room-sharing options for solo travellers?",
+      "answer": "On some group tours, we may offer a 'willing to share' option for solo travellers of the same gender to avoid the single supplement. If we find a suitable roommate, you pay the twin-share price. If no roommate is available, you may need to pay the single supplement. Check the specific tour details.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What are 'Casa Particulares' in Cuba?",
+      "answer": "Casas Particulares are private homestays, similar to B&Bs, licensed by the Cuban government. Staying in them offers a more authentic cultural experience and supports local families. Quality varies but many are comfortable and well-maintained.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What is a 'Ryokan' in Japan?",
+      "answer": "A Ryokan is a traditional Japanese inn featuring tatami-matted rooms, futon bedding, often with communal baths (onsen) and elaborate multi-course meals (kaiseki). It offers a unique cultural immersion.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What is an 'Agriturismo' in Italy?",
+      "answer": "An Agriturismo is a farm stay, often located in the countryside. They range from rustic to luxurious and typically offer accommodation, meals (often featuring farm-produced ingredients), and sometimes activities related to agriculture or local life.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "What is a 'Riad' in Morocco?",
+      "answer": "A Riad is a traditional Moroccan house or palace with an interior garden or courtyard. Many have been converted into guesthouses or boutique hotels, often located within the medina (old city), offering an atmospheric stay.",
+      "category": "Accommodation"
+    },
+     {
+      "question": "Are hotel amenities like hairdryers and toiletries provided?",
+      "answer": "Most hotels (3-star and above) provide basic toiletries (soap, shampoo) and hairdryers. However, standards and availability can vary, especially in more basic accommodation, guesthouses, or remote areas. It's always wise to pack travel-sized essentials.",
+      "category": "Accommodation"
+    },
+    {
+      "question": "What is the difference between trip cancellation and trip interruption insurance?",
+      "answer": "Trip Cancellation cover reimburses your non-refundable costs if you have to cancel *before* departure for a covered reason (e.g., illness, family emergency). Trip Interruption cover reimburses unused portions and extra costs if you have to cut your trip short *after* departure for a covered reason.",
+      "category": "Insurance Details"
+    },
+    {
+      "question": "Does travel insurance cover lost or stolen belongings?",
+      "answer": "Most comprehensive policies include cover for lost, stolen, or damaged baggage and personal effects, up to a certain limit per item and overall. High-value items (electronics, jewelry) may have specific sub-limits or require separate cover. Always report losses to local police and get a report.",
+      "category": "Insurance Details"
+    },
+    {
+      "question": "Will travel insurance cover activities like skiing or scuba diving?",
+      "answer": "Standard policies may exclude 'hazardous' activities. You often need to purchase an add-on or specific policy that covers adventure sports like skiing, scuba diving (check depth limits), trekking at high altitude, etc. Always verify coverage for your planned activities.",
+      "category": "Insurance Details"
+    },
+    {
+      "question": "What is 'Cancel For Any Reason' (CFAR) insurance?",
+      "answer": "CFAR is an optional upgrade available on some policies that allows you to cancel your trip for *any* reason not otherwise covered by the standard policy (e.g., changing your mind, work conflict). It typically reimburses a percentage (e.g., 50-75%) of your non-refundable costs and must usually be purchased within a short timeframe of your initial booking.",
+      "category": "Insurance Details"
+    },
+    {
+      "question": "Does travel insurance cover travel provider bankruptcy?",
+      "answer": "Some comprehensive policies include cover for financial default or bankruptcy of airlines, cruise lines, or tour operators. Check the policy details, as this coverage is not standard on all plans.",
+      "category": "Insurance Details"
+    },
+     {
+      "question": "Is there an age limit for travel insurance?",
+      "answer": "Many standard policies have upper age limits or may charge significantly higher premiums for senior travellers. Specific policies designed for seniors are available. Always disclose ages accurately when obtaining quotes.",
+      "category": "Insurance Details"
+    },
+    {
+      "question": "What documents do I need to make an insurance claim?",
+      "answer": "Typically: completed claim form, original receipts/invoices for expenses, booking confirmations, cancellation invoices, police reports (for theft), medical reports/certificates (for medical/cancellation claims), airline irregularity reports (for baggage/flight delays). Keep copies of everything.",
+      "category": "Insurance Details"
+    },
+    {
+      "question": "What is 'Excess' or 'Deductible' on a travel insurance policy?",
+      "answer": "The excess (or deductible) is the fixed amount you must pay out-of-pocket towards a claim before the insurance company starts paying. For example, if your excess is $100 and your claim is $500, the insurer pays $400. Some policies offer zero excess options, usually at a higher premium.",
+      "category": "Insurance Details"
+    },
+    {
+      "question": "Can I travel if I'm pregnant?",
+      "answer": "Generally yes, but consult your doctor first. Most airlines allow travel up to 28-36 weeks (check specific airline rules, doctor's note may be required). Ensure your travel insurance covers pregnancy-related issues. Some destinations or activities may not be suitable during pregnancy.",
+      "category": "Special Considerations"
+    },
+    {
+      "question": "Do you cater for travellers with disabilities or mobility issues?",
+      "answer": "We strive to accommodate all travellers where possible. Please inform us of any specific needs (wheelchair access, mobility limitations, hearing/visual impairment) at the time of inquiry. We can advise on suitable destinations and tours, and check accessibility with suppliers. However, note that accessibility standards vary greatly worldwide.",
+      "category": "Special Considerations"
+    },
+    {
+      "question": "Can you accommodate dietary requirements (vegetarian, gluten-free, allergies)?",
+      "answer": "Yes, please inform us of any dietary requirements or severe allergies at the time of booking. We will notify airlines, hotels, and tour providers. While we do our best, availability of specific options can vary, especially in remote areas. If you have severe allergies, carry necessary medication (e.g., EpiPen) and consider carrying translated allergy cards.",
+      "category": "Special Considerations"
+    },
+    {
+      "question": "Are your tours suitable for families with young children?",
+      "answer": "Some tours are specifically designed for families, while others may have minimum age limits or a pace/activity level unsuitable for young children. Check the tour details or ask us for recommendations on family-friendly trips.",
+      "category": "Special Considerations"
+    },
+    {
+      "question": "What documents are needed for children travelling internationally?",
+      "answer": "Children typically need their own passports. Depending on the country and if travelling with only one parent or guardian, additional documents like a birth certificate or a notarized letter of consent from the non-traveling parent(s) may be required. Check specific country requirements.",
+      "category": "Special Considerations"
+    },
+    {
+      "question": "Do you offer private or custom tours?",
+      "answer": "Yes, besides our scheduled group tours, we can create tailor-made private itineraries based on your interests, budget, and travel dates. Contact our travel consultants to discuss your requirements for a personalized trip.",
+      "category": "Special Considerations"
+    },
+     {
+      "question": "I'm a solo traveller, are your tours welcoming?",
+      "answer": "Absolutely! Many solo travellers join our group tours. They offer a great way to see the world, meet like-minded people, and have the security and convenience of organized travel. Options like single supplements or room-sharing (on some tours) cater specifically to solo participants.",
+      "category": "Special Considerations"
+    },
+    {
+      "question": "What is the best way to learn about local customs and etiquette?",
+      "answer": "Doing some research before you go is key. Guidebooks, reputable travel blogs, and our pre-departure information often cover local customs regarding dress codes (especially for religious sites), greetings, dining etiquette, photography rules, and acceptable public behaviour. Being observant and respectful goes a long way.",
+      "category": "Culture & Etiquette"
+    },
+    {
+      "question": "Is it okay to take photos of local people?",
+      "answer": "Always ask for permission before taking close-up photos of individuals, especially children. In some cultures or places, photography may be restricted or considered intrusive. Respect people's privacy and wishes.",
+      "category": "Culture & Etiquette"
+    },
+    {
+      "question": "Are there specific dress codes I should be aware of?",
+      "answer": "Yes, particularly when visiting religious sites (temples, mosques, churches). Modest dress is often required – covering shoulders, knees, and sometimes head (for women in some mosques). Even outside religious sites, dressing modestly can show respect in more conservative cultures. Pack versatile clothing like scarves or light long-sleeved tops.",
+      "category": "Culture & Etiquette"
+    },
+    {
+      "question": "How important is it to learn some basic local phrases?",
+      "answer": "While not essential (English is spoken in many tourist areas), learning a few basic phrases like 'Hello', 'Thank You', 'Please', and 'Goodbye' in the local language is always appreciated and shows respect for the local culture. A phrasebook or translation app can be helpful.",
+      "category": "Culture & Etiquette"
+    },
+    {
+      "question": "What are some general tips for responsible and sustainable travel?",
+      "answer": "Minimize your environmental impact (reduce waste, conserve water/energy), respect local culture and traditions, support the local economy (buy local crafts, eat at local restaurants), avoid activities that harm wildlife or the environment, and be mindful of your interactions.",
+      "category": "Sustainability & Responsibility"
+    },
+    {
+      "question": "How can I reduce my plastic consumption while traveling?",
+      "answer": "Carry a reusable water bottle and refill it where safe (consider a filter bottle), bring reusable shopping bags, refuse plastic straws, pack solid toiletries (shampoo bars) to reduce plastic containers, and choose accommodations/operators with good environmental practices.",
+      "category": "Sustainability & Responsibility"
+    },
+    {
+      "question": "Should I give money or gifts to children begging in the street?",
+      "answer": "While well-intentioned, giving directly to begging children can perpetuate the problem and discourage school attendance. It's generally better to support reputable local charities, schools, or community projects that help children and families in a sustainable way. Your tour leader may be able to advise.",
+      "category": "Sustainability & Responsibility"
+    },
+    {
+      "question": "How does your company support responsible tourism?",
+      "answer": "We strive to partner with local suppliers who share our commitment to sustainability, fair wages, and community benefit. We encourage respectful cultural interaction, aim to minimize environmental footprints on our tours, and provide guidance to travellers on responsible practices.",
+      "category": "Sustainability & Responsibility"
+    },
+    {
+      "question": "What is carbon offsetting for flights?",
+      "answer": "Carbon offsetting involves calculating the carbon emissions generated by your flight and then investing in projects (like renewable energy or reforestation) designed to reduce or capture an equivalent amount of CO2 elsewhere. Some airlines offer offsetting options during booking, or you can use third-party offset providers.",
+      "category": "Sustainability & Responsibility"
+    },
+    {
+      "question": "What essential travel apps do you recommend?",
+      "answer": "Helpful apps include: your airline's app (for flight status/check-in), Google Maps or Maps.me (offline maps), Google Translate or similar, XE Currency (exchange rates), a ride-sharing app (like Uber/Grab, depending on location), WhatsApp (for communication), and perhaps your bank's and travel insurance provider's apps.",
+      "category": "Technology & Travel"
+    },
+    {
+      "question": "What is an eSIM and how does it work?",
+      "answer": "An eSIM is a digital SIM card embedded in newer smartphones. It allows you to activate a cellular plan from a provider without needing a physical SIM card. This is convenient for travel, as you can buy and activate data plans for your destination remotely, often before you even leave home.",
+      "category": "Technology & Travel"
+    },
+    {
+      "question": "Is public Wi-Fi safe to use for sensitive tasks?",
+      "answer": "Public Wi-Fi networks (airports, cafes) are often unsecured. Avoid accessing sensitive information like online banking or entering passwords while connected to public Wi-Fi. If you must, use a VPN (Virtual Private Network) to encrypt your connection and enhance security.",
+      "category": "Technology & Travel"
+    },
+    {
+      "question": "Should I back up my photos while traveling?",
+      "answer": "Yes, it's highly recommended! Regularly back up your photos and important files to a cloud service (like Google Photos, iCloud, Dropbox) when you have Wi-Fi, or onto a portable hard drive or spare memory cards. This prevents losing precious memories if your phone or camera is lost, stolen, or damaged.",
+      "category": "Technology & Travel"
+    },
+     {
+      "question": "What happens after I book? When do I receive my documents?",
+      "answer": "After booking and paying the deposit, you'll receive a booking confirmation and invoice. Final travel documents, including flight e-tickets (if applicable), hotel vouchers, detailed itinerary, and local contact information, are typically sent electronically 2-4 weeks before your departure date, once final payment is received.",
+      "category": "Post-Booking"
+    },
+     {
+      "question": "Is there a pre-departure briefing or information pack?",
+      "answer": "Yes, along with your final documents, we usually provide a pre-departure information pack containing practical tips about your destination, packing suggestions, currency, cultural notes, visa/health reminders, and emergency contacts.",
+      "category": "Post-Booking"
+    },
+     {
+      "question": "Who should I contact if I have questions before departure?",
+      "answer": "Your dedicated travel consultant or our customer service team is available to answer any questions you may have in the lead-up to your trip. Contact details will be provided on your booking confirmation.",
+      "category": "Post-Booking"
+    },
+      {
+      "question": "What is the difference between ATOL and ABTA protection (UK specific)?",
+      "answer": "ATOL (Air Travel Organiser's Licence) protects package holidays that include flights, ensuring you won't lose money or be stranded abroad if the operator fails. ABTA (Association of British Travel Agents) provides protection for non-flight-based packages (like coach or cruise holidays) and upholds a code of conduct. Reputable UK agencies should offer one or both.",
+      "category": "Consumer Protection"
+    },
+    {
+      "question": "How do you ensure the quality of your local partners and guides?",
+      "answer": "We carefully vet our local partners (hotels, transport providers, guides) based on quality, reliability, safety standards, customer feedback, and adherence to responsible tourism practices. We maintain long-term relationships and gather feedback from returning travellers to ensure ongoing quality.",
+      "category": "Our Services"
+    },
+    {
+      "question": "Why book with a travel agency instead of booking everything myself?",
+      "answer": "Booking with an agency offers expertise, convenience, and peace of mind. We save you time researching, handle complex logistics, often have access to better deals or exclusive experiences, provide support during your trip, and offer financial protection (like ATOL/ABTA in the UK).",
+      "category": "Our Services"
+    },
+    {
+      "question": "Can you help arrange travel for special occasions (honeymoon, anniversary)?",
+      "answer": "Absolutely! We love helping plan trips for special occasions. We can tailor itineraries, suggest romantic destinations or activities, and liaise with hotels for special requests (subject to availability) to make your celebration memorable.",
+      "category": "Our Services"
+    },
+    {
+      "question": "Do you specialize in certain types of travel or destinations?",
+      "answer": "While we offer a wide range of travel experiences, we may have particular expertise in certain regions (e.g., Asia, South America) or travel styles (e.g., adventure travel, cultural tours, luxury escapes). Check our website or speak to a consultant about our specializations.",
+      "category": "Our Services"
+    },
+    {
+      "question": "What if I need to travel urgently?",
+      "answer": "While complex international trips often require advance planning (visas, flight availability), contact us with your requirements. We will do our best to assist with last-minute arrangements, depending on the destination and availability.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "Are airport transfers included in the packages?",
+      "answer": "Arrival and departure airport transfers are often included in group tour packages or can be added to tailor-made trips. Please check the specific inclusions for your chosen tour. If not included, we can usually arrange them for an additional fee.",
+      "category": "Transportation"
+    },
+    {
+      "question": "What kind of vehicles are used for ground transportation on tours?",
+      "answer": "We use comfortable, air-conditioned vehicles appropriate for the group size and terrain. This could range from private cars or minivans for smaller groups or transfers, to larger coaches for bigger groups, or specialized vehicles like 4x4s for safaris or desert tours.",
+      "category": "Transportation"
+    },
+    {
+      "question": "Is train travel a common component of your tours?",
+      "answer": "In destinations where train travel is efficient and scenic (e.g., Europe, Japan, India, Trans-Siberian), we often incorporate train journeys into our itineraries. This can be a comfortable and enjoyable way to travel between cities.",
+      "category": "Transportation"
+    },
+    {
+      "question": "What about driving rental cars abroad?",
+      "answer": "While we don't typically include rental cars in group tours, we can arrange car hire as part of a custom self-drive itinerary. Ensure you have the necessary driving license (often an International Driving Permit - IDP is required) and understand local driving rules and insurance requirements.",
+      "category": "Transportation"
+    },
+    {
+      "question": "Are domestic flights within a country usually included in the price?",
+      "answer": "If an itinerary involves covering long distances within a large country (e.g., Peru, Vietnam, USA), domestic flights are often included in the package price for efficiency. Check the inclusions list to confirm.",
+      "category": "Transportation"
+    },
+    {
+      "question": "What should I know about ferry travel between islands (e.g., Greece, Croatia)?",
+      "answer": "Ferry schedules can be seasonal and sometimes affected by weather. We book reliable ferry companies. Be prepared for potential crowds during peak season and allow ample time for boarding. Luggage handling procedures vary.",
+      "category": "Transportation"
+    },
+    {
+      "question": "How reliable is public transport in the destinations you offer?",
+      "answer": "Reliability varies greatly. Major cities in Europe, Asia, etc., often have excellent public transport (metro, buses, trams). In other regions, it might be less frequent or convenient. Our tours primarily use private transport for efficiency, but itineraries might include experiences using local transport.",
+      "category": "Transportation"
+    },
+    {
+      "question": "What is the 'shoulder season' and is it a good time to travel?",
+      "answer": "The shoulder seasons are the periods just before and after the peak tourist season (e.g., Spring and Autumn in many destinations). They often offer a good balance: pleasant weather, fewer crowds than peak season, and potentially lower prices for flights and accommodation.",
+      "category": "Planning & Timing"
+    },
+    {
+      "question": "What is the 'low season' or 'off-season'?",
+      "answer": "The low season typically corresponds to less favorable weather (e.g., rainy season, cold winter) and sees the fewest tourists. Prices are often lowest, but some attractions or hotels might be closed, and weather can impact activities.",
+      "category": "Planning & Timing"
+    },
+    {
+      "question": "How far in advance should I book my trip?",
+      "answer": "For popular destinations, tours with limited space (especially small groups or cruises), or travel during peak seasons/holidays, booking 6-12 months in advance is recommended to secure availability and potentially better flight prices. For less busy periods, 3-6 months might suffice, but earlier is generally better.",
+      "category": "Planning & Timing"
+    },
+    {
+      "question": "Can you advise on the best time of year to visit a specific country?",
+      "answer": "Yes, our travel consultants can provide guidance on the best times to visit based on weather patterns, specific events or festivals, wildlife migrations (for safaris), and crowd levels. Tell us your preferences, and we can help you choose the optimal time.",
+      "category": "Planning & Timing"
+    },
+    {
+      "question": "What if I want to extend my trip before or after the tour?",
+      "answer": "We can usually arrange pre- or post-tour accommodation, transfers, or additional activities if you'd like to extend your stay in the arrival or departure city, or even travel onward to another nearby destination. Please discuss these options with us when booking.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "Do you have a loyalty program for frequent travellers?",
+      "answer": "We value our repeat customers. While we may not have a formal points-based program, we often offer exclusive discounts, early access to new tours, or special perks for returning clients. Please mention if you've travelled with us before when making a new inquiry.",
+      "category": "Our Services"
+    },
+    {
+      "question": "How do you handle feedback after the trip?",
+      "answer": "We typically send out a post-trip feedback survey to gather your valuable opinions on the itinerary, guides, accommodation, and overall experience. This feedback is crucial for us to maintain quality and improve our services.",
+      "category": "Post-Booking"
+    },
+    {
+      "question": "What is the currency in the Eurozone?",
+      "answer": "The Euro (€) is the official currency for 20 of the 27 EU member states, collectively known as the Eurozone (e.g., France, Germany, Italy, Spain, Greece, Portugal).",
+      "category": "Money Matters"
+    },
+    {
+      "question": "Is it better to pay in local currency or my home currency when using a credit card abroad?",
+      "answer": "Always choose to pay in the *local currency*. If the terminal offers to convert the transaction to your home currency (Dynamic Currency Conversion - DCC), decline it. The exchange rates used for DCC are typically very unfavorable compared to the rate your bank/card issuer will give you.",
+      "category": "Money Matters"
+    },
+    {
+      "question": "Are ATMs readily available internationally?",
+      "answer": "ATMs are widely available in cities and larger towns in most countries. Availability may be limited in very rural or remote areas. Check if your debit card is part of a major network (like Cirrus/Maestro or Plus) for compatibility. Inform your bank of travel plans.",
+      "category": "Money Matters"
+    },
+    {
+      "question": "Should I carry large amounts of cash?",
+      "answer": "It's generally advisable *not* to carry large amounts of cash. Carry enough for daily expenses and use credit cards or withdraw from ATMs as needed. Utilize hotel safes for spare cash and important documents.",
+      "category": "Money Matters"
+    },
+    {
+      "question": "What are traveller's checks and are they still used?",
+      "answer": "Traveller's checks are pre-printed checks in fixed amounts that require your signature twice (once at purchase, once at cashing). They were once popular for safety but are now largely obsolete and difficult to cash in many places. We do not recommend relying on them.",
+      "category": "Money Matters"
+    },
+    {
+      "question": "How can I estimate a budget for personal expenses on a trip?",
+      "answer": "Consider costs not included in the package: meals not listed, drinks, snacks, souvenirs, optional activities, tips, local transport during free time, and personal shopping. Research average costs for meals and activities at your destination. We can provide general guidelines.",
+      "category": "Money Matters"
+    },
+    {
+      "question": "What is VAT refund or tax-free shopping?",
+      "answer": "In some countries (like those in the EU, UK), non-resident visitors may be eligible for a refund on the Value Added Tax (VAT) paid on goods purchased and taken out of the country. Procedures typically involve getting specific forms from the retailer, presenting goods and forms to customs at departure, and claiming the refund. Minimum purchase amounts usually apply.",
+      "category": "Money Matters"
+    },
+    {
+      "question": "Can I use ride-sharing apps like Uber or Lyft abroad?",
+      "answer": "Availability varies by country and city. Uber, Lyft, Grab (SE Asia), Bolt, Didi, and local equivalents operate in many international locations. Check availability for your destination. They can be convenient, but ensure you have data access to use them.",
+      "category": "Transportation"
+    },
+    {
+      "question": "Are there specific safety tips for using taxis abroad?",
+      "answer": "Use official, licensed taxis (check for meters, ID). Agree on the fare beforehand or ensure the meter is running. Have your destination address written down (perhaps in the local language). Be wary of unlicensed taxis or unsolicited offers at airports/stations. Ask your hotel to call a reputable taxi if needed.",
+      "category": "Transportation"
+    },
+    {
+      "question": "What are the key differences between a guided tour and independent travel?",
+      "answer": "Guided tours offer structure, pre-arranged logistics, expert guidance, and social opportunities, ideal for those seeking convenience and insights. Independent travel provides flexibility, freedom to set your own pace, and deeper immersion, but requires more planning and self-reliance.",
+      "category": "Travel Styles"
+    },
+    {
+      "question": "What is 'adventure travel'?",
+      "answer": "Adventure travel typically involves exploration or travel with a degree of risk (real or perceived), often requiring physical exertion and interaction with nature or different cultures. Examples include trekking, mountaineering, rafting, wildlife safaris, cycling tours, or exploring remote regions.",
+      "category": "Travel Styles"
+    },
+    {
+      "question": "What is 'slow travel'?",
+      "answer": "Slow travel emphasizes connection to local people, culture, food, and music. It relies on the idea that a trip is meant to educate and have an emotional impact, while remaining sustainable for local communities and the environment. It often involves longer stays in one place and using local transport.",
+      "category": "Travel Styles"
+    },
+    {
+      "question": "What is a 'digital nomad'?",
+      "answer": "Digital nomads are people who use telecommunications technologies to earn a living and, more generally, conduct their life in a nomadic manner. They often work remotely while traveling to different locations.",
+      "category": "Travel Styles"
+    },
+    {
+      "question": "What is a 'staycation'?",
+      "answer": "A staycation is a holiday spent in one's home country rather than abroad, or one spent at home involving day trips to local attractions.",
+      "category": "Travel Styles"
+    },
+    {
+      "question": "What is 'dark tourism'?",
+      "answer": "Dark tourism involves traveling to places historically associated with death and tragedy, such as battlefields, disaster sites, or genocide memorials (e.g., Auschwitz-Birkenau, Choeung Ek Killing Fields). It often focuses on historical reflection and remembrance.",
+      "category": "Travel Styles"
+    },
+    {
+      "question": "What are 'UNESCO World Heritage Sites'?",
+      "answer": "These are landmarks or areas selected by the United Nations Educational, Scientific and Cultural Organization (UNESCO) as having cultural, historical, scientific, or other form of significance, and legally protected by international treaties. Examples include Machu Picchu, the Pyramids of Giza, the Great Wall of China, and the Serengeti.",
+      "category": "Activities & Tours"
+    },
+    {
+      "question": "Are tips for guides and drivers included in the tour price?",
+      "answer": "Tipping is generally *not* included in the tour price unless explicitly stated. Tipping is often customary and appreciated for good service from tour leaders, local guides, and drivers. Pre-departure information usually provides guidelines on suggested amounts for your destination.",
+      "category": "Money Matters"
+    },
+    {
+      "question": "Do I need travel vaccinations if I'm only visiting major cities in developed countries?",
+      "answer": "While requirements are less common for typical tourist travel between developed countries, it's *always* best to consult your doctor or travel clinic. They can confirm if routine vaccinations are up-to-date and advise if any destination-specific recommendations exist, even for urban travel.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "What is the emergency number in the country I'm visiting?",
+      "answer": "Emergency numbers vary globally (e.g., 911 in North America, 112 in Europe, 999 in the UK, 000 in Australia). Your pre-departure information pack usually includes local emergency numbers. It's wise to save the local equivalent(s) in your phone upon arrival.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "Can I drink tap water at my destination?",
+      "answer": "Tap water safety varies greatly worldwide. In many parts of Western Europe, North America, Australia/NZ, and Japan, it's generally safe. In much of Asia, Africa, and Latin America, it's advisable to drink bottled, boiled, or purified water. Check local advice or err on the side of caution.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "What should I wear on the plane for a long flight?",
+      "answer": "Comfort is key! Opt for loose-fitting, breathable clothing in layers, as cabin temperatures can fluctuate. Comfortable shoes (slip-ons are easy for security) and compression socks can help with circulation. An eye mask and travel pillow can aid sleep.",
+      "category": "Preparation & Packing"
+    },
+    {
+      "question": "How can I find out about local events or festivals happening during my trip?",
+      "answer": "Your itinerary might include major festivals if they coincide. For other local events, check the destination's official tourism website, local event listings (often found online or via apps like Eventbrite), or ask your hotel concierge or local guide upon arrival.",
+      "category": "Activities & Tours"
+    },
+    {
+      "question": "Is travel by overnight train safe and comfortable?",
+      "answer": "Overnight trains can be a safe, efficient, and experiential way to travel long distances, especially in Europe and Asia. Comfort levels vary based on the class of service booked (compartments with beds vs. seats). Secure your belongings and be aware of your surroundings, as you would in any public space.",
+      "category": "Transportation"
+    },
+    {
+      "question": "What is the difference between 'Full Board', 'Half Board', and 'All-Inclusive'?",
+      "answer": "*Full Board* typically includes breakfast, lunch, and dinner. *Half Board* usually includes breakfast and dinner (sometimes breakfast and lunch). *All-Inclusive* typically includes all meals, snacks, and most alcoholic and non-alcoholic beverages. Specific inclusions can vary, always check the details.",
+      "category": "Accommodation"
+    },
+    {
+      "question": "What is Duty-Free shopping?",
+      "answer": "Duty-free shops (often at airports or on ferries/cruises) sell goods without certain local import taxes and duties included, potentially making them cheaper. However, prices aren't always lower than regular retail. Be aware of allowance limits for bringing goods (especially alcohol/tobacco) into your home country or next destination.",
+      "category": "Money Matters"
+    },
+     {
+      "question": "Can I bring food items back home from my trip?",
+      "answer": "Regulations on importing food vary strictly by country. Many countries prohibit or restrict bringing in fresh fruits, vegetables, meat, and dairy products to prevent the spread of pests and diseases. Processed, commercially packaged foods are sometimes allowed. Always declare food items to customs.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is the process for lost luggage with an airline?",
+      "answer": "If your checked luggage doesn't arrive, report it *immediately* to the airline's baggage service counter in the arrivals hall *before* leaving the airport. Fill out a Property Irregularity Report (PIR). Keep a copy of this report and contact details. The airline is responsible for tracing and delivering your bag, or compensating you if it's permanently lost (within liability limits).",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "Are there any restrictions on using drones while traveling?",
+      "answer": "Yes, drone regulations vary significantly by country. Many countries require registration, have strict no-fly zones (airports, government buildings, national parks), and may restrict commercial use or flying over people. Research and comply with local drone laws *before* you travel with one.",
+      "category": "Technology & Travel"
+    },
+    {
+      "question": "How can I stay safe from scams while traveling?",
+      "answer": "Be wary of unsolicited offers, overly friendly strangers wanting to 'help' (e.g., with directions, tickets), rigged taxis meters, distraction techniques used by pickpockets, and deals that seem too good to be true. Research common scams at your destination. Trust your intuition.",
+      "category": "Health & Safety"
+    },
+    {
+      "question": "What is the best way to carry copies of important documents?",
+      "answer": "Keep physical photocopies separate from the originals (e.g., in different bags). Also, have digital copies stored securely in the cloud (e.g., Google Drive, Dropbox) and/or on a USB drive, and perhaps emailed to yourself or a trusted contact back home.",
+      "category": "Preparation & Packing"
+    },
+    {
+      "question": "Do hotel rooms usually have safes?",
+      "answer": "Most mid-range to luxury hotels provide in-room safes, often large enough for passports, wallets, phones, and small cameras. More basic accommodations or guesthouses might not have them in every room, but may offer a safe at reception. Always use them for valuables when available.",
+      "category": "Accommodation"
+    },
+    {
+      "question": "Is it safe to leave my luggage with the hotel before check-in or after check-out?",
+      "answer": "Most hotels offer luggage storage as a courtesy for guests arriving early or departing late. It's generally safe, often stored in a designated room or area near reception. However, avoid leaving highly valuable items (laptops, cameras) in stored luggage if possible.",
+      "category": "Accommodation"
+    },
+    {
+      "question": "How do I deal with language barriers?",
+      "answer": "Be patient and polite. Use translation apps, carry a phrasebook, use simple English, speak clearly, and use gestures or point to pictures if needed. Learning a few basic local words shows effort and is usually appreciated. Download offline translation packs for apps.",
+      "category": "Culture & Etiquette"
+    },
+    {
+      "question": "What is the electrical voltage in North America vs. Europe vs. Asia?",
+      "answer": "Generally: North America uses 110-120V. Europe, most of Asia, Africa, Australia/NZ use 220-240V. Always check the specific country. Modern electronics are often dual-voltage (100-240V), but check the label. You'll still need plug adapters for different outlet shapes.",
+      "category": "Preparation & Packing"
+    },
+    {
+      "question": "What are customs declarations?",
+      "answer": "Upon entering a country, you may need to fill out a customs declaration form, stating what goods you are bringing in (especially items exceeding duty-free limits, restricted goods like food/plants, or large amounts of currency). Be honest and declare items as required to avoid penalties.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "Can I use my driver's license as ID for international travel?",
+      "answer": "A driver's license is generally *not* sufficient as primary ID for international flights or border crossings. A valid passport is required. It may be useful as secondary photo ID or if renting a car (along with an International Driving Permit where needed).",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is an 'open-jaw' ticket?",
+      "answer": "An open-jaw flight ticket is one where you fly into one city and return from a different city (e.g., fly into London, return from Paris). This can be convenient for itineraries covering multiple locations without backtracking.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What are airline alliances (Star Alliance, Oneworld, SkyTeam)?",
+      "answer": "These are partnerships between multiple airlines. Benefits for travellers can include earning/redeeming frequent flyer miles across member airlines, access to shared lounges, coordinated schedules for easier connections, and sometimes reciprocal status benefits.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "Can I request special meals on flights (e.g., vegetarian, kosher)?",
+      "answer": "Yes, most full-service airlines offer a range of special meals to cater for dietary, religious, or medical needs. These must usually be requested *in advance* (at least 24-48 hours before the flight) when booking or via the airline's 'manage my booking' tool.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is the difference between a 'direct' flight and a 'non-stop' flight?",
+      "answer": "A *non-stop* flight goes from origin to destination with no stops. A *direct* flight also goes from origin to destination under one flight number, but *may* make one or more stops en route where some passengers might deplane/board, but you typically stay on the same aircraft.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What should I do if I miss my connecting flight?",
+      "answer": "If you miss a connection due to a delay on your *first* flight and both flights were booked on the *same ticket*, the airline is generally responsible for rebooking you on the next available flight at no extra charge. Go to the airline's transfer desk or customer service counter immediately upon arrival at the connection airport.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "Are there restrictions on bringing items like batteries or power banks on planes?",
+      "answer": "Yes. Loose lithium batteries (like spares for cameras/laptops) and power banks must be carried in *carry-on* luggage only, not checked bags. There are often limits on the number and capacity (Watt-hours) allowed per person. Check specific airline regulations.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "Can I request an upgrade on my flight?",
+      "answer": "You can always inquire about paid upgrades at check-in or the gate, subject to availability. Free 'operational' upgrades are rare and usually prioritized for loyal frequent flyers. Using miles or points for upgrades is another option, often needing to be arranged well in advance.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is 'code-sharing' in aviation?",
+      "answer": "Code-sharing is an agreement where two or more airlines share the same flight. One airline operates the flight (the operating carrier), while others sell seats on it under their own flight number (the marketing carriers). Your ticket will show who you booked with and who is operating the flight.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What are budget airlines or low-cost carriers (LCCs)?",
+      "answer": "LCCs typically offer lower base fares by charging extra for services usually included by full-service carriers, such as checked baggage, seat selection, meals, and drinks. They often fly to secondary airports and may have stricter baggage rules.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "How do I find my gate at the airport?",
+      "answer": "Check the departure boards (screens) located throughout the terminal after you clear security. Find your flight number; the board will display the corresponding gate number and boarding time. Gate assignments can sometimes change, so check the boards periodically.",
+      "category": "Documentation & Flights"
+    },
+     {
+      "question": "What happens during the boarding process?",
+      "answer": "Boarding usually occurs by groups or zones (indicated on your boarding pass) starting with priority passengers. Have your boarding pass and ID ready. Airline staff will scan your pass as you enter the jet bridge leading to the aircraft.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "Can I use electronic devices during the flight?",
+      "answer": "Small handheld devices (phones, tablets, e-readers) can usually be used throughout the flight in 'airplane mode'. Larger devices like laptops may need to be stowed during takeoff and landing. Listen to crew instructions regarding device usage.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "What is turbulence and is it dangerous?",
+      "answer": "Turbulence is irregular air movement causing bumpy conditions. It's a normal part of flying and aircraft are built to withstand it. While it can be uncomfortable, it's generally not dangerous. Keep your seatbelt fastened when seated, especially when the seatbelt sign is on.",
+      "category": "Documentation & Flights"
+    },
+    {
+      "question": "How does booking a 'guaranteed departure' tour differ?",
+      "answer": "A 'guaranteed departure' means the tour will definitely run as scheduled and will not be cancelled due to low participant numbers. This provides more certainty when booking flights and making other arrangements.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What is a 'waitlist' for a tour?",
+      "answer": "If a tour departure is fully booked, we may offer a waitlist. If a spot opens up due to a cancellation, we will contact those on the waitlist (often in order). Being on the waitlist doesn't guarantee a spot.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "Can I pay for my trip in installments?",
+      "answer": "Typically, payment involves a deposit followed by a final balance payment by a set due date. While formal installment plans aren't standard, you can often make partial payments towards your balance before the final due date. Please discuss options with your consultant.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What happens if the price of a tour changes after I book?",
+      "answer": "Once you have paid your deposit and received a booking confirmation, the base price of your tour package is typically guaranteed against increases (except potentially for significant changes in taxes or fuel surcharges before final payment, as per T&Cs). If prices decrease, the booked price usually stands.",
+      "category": "Booking Process"
+    },
+     {
+      "question": "Do you offer travel gift vouchers?",
+      "answer": "Yes, we often offer gift vouchers that can be purchased and used towards booking any of our travel packages. They make a great gift for travel enthusiasts! Contact us for details on purchasing.",
+      "category": "Our Services"
+    },
+    {
+      "question": "How do you handle personal data and privacy?",
+      "answer": "We take data privacy seriously and comply with relevant regulations (like GDPR). We only collect necessary personal information for booking and operational purposes and have measures in place to protect it. Our full privacy policy is available on our website.",
+      "category": "Our Services"
+    },
+    {
+      "question": "Can you assist with booking pre- or post-tour flights?",
+      "answer": "Yes, if your package doesn't include international flights, or if you want different dates/routes than offered, our consultants can assist in searching for and booking suitable flights for an additional service fee.",
+      "category": "Our Services"
+    },
+    {
+      "question": "What support is available for travellers with anxiety or phobias (e.g., fear of flying)?",
+      "answer": "While we are not medical professionals, we can provide detailed information about the trip to help you prepare. Choosing tours with less flying, direct flights, or alternative transport like trains might help. Discussing concerns with your doctor or therapist before travel is recommended.",
+      "category": "Special Considerations"
+    },
+    {
+      "question": "How are meal times and arrangements handled on group tours?",
+      "answer": "Included meals (breakfast, some lunches/dinners) are usually taken together as a group at the hotel or selected local restaurants. For non-included meals, your tour leader can offer recommendations, and you'll have flexibility to dine independently or with others from the group.",
+      "category": "During Your Trip"
+    },
+    {
+      "question": "What is the policy on smoking during tours?",
+      "answer": "Smoking is generally prohibited on vehicles (coaches, vans) and often restricted inside hotels, restaurants, and public buildings according to local laws. Designated smoking areas may be available outside. Please be considerate of non-smoking group members.",
+      "category": "During Your Trip"
+    },
+    {
+      "question": "Are laundry facilities available during the trip?",
+      "answer": "Many hotels offer laundry services (usually at extra cost). Some tours might stay in locations with self-service laundromats nearby. Availability varies, especially in remote areas or during shorter stays. Pack accordingly or plan for laundry stops on longer trips.",
+      "category": "During Your Trip"
+    },
+    {
+      "question": "What should I do with my feedback or complaints after the trip?",
+      "answer": "We encourage you to complete our post-trip survey. If you have specific complaints or issues that weren't resolved during the trip, please contact our customer service department in writing (email) with details as soon as possible after returning, so we can investigate and respond appropriately.",
+      "category": "Post-Booking"
+    },
+    {
+      "question": "Is it possible to join a tour part-way through or leave early?",
+      "answer": "This is generally not possible or recommended for group tours, as itineraries are designed as a complete journey and pricing is based on the full package. Exceptions are rare and would need specific approval and may not result in a price reduction.",
+      "category": "Booking Process"
+    },
+    {
+      "question": "What are 'force majeure' events and how do they affect my booking?",
+      "answer": "'Force majeure' refers to unforeseeable, extraordinary circumstances beyond our control (e.g., natural disasters, pandemics, war, widespread strikes). Our Terms & Conditions outline how such events impact bookings, which may involve itinerary changes, postponements, or specific cancellation/refund policies, often guided by supplier policies and insurance.",
+      "category": "Booking Process"
+    }
+  ]
