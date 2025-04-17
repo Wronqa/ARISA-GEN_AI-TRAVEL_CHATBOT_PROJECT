@@ -26,6 +26,7 @@
 
 ## 🧩 Project Structure
 
+```text
 ARISA-GEN_AI-TRAVEL_CHATBOT_PROJECT/
 ├── app.py
 ├── data/
